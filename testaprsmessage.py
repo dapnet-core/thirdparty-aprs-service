@@ -1,5 +1,8 @@
 import logging
 import aprslib
+# Uses https://aprs-python.readthedocs.io/en/stable/index.html
+# pip install aprslib
+
 #logging.basicConfig(level=logging.DEBUG) # level=10
 
 
